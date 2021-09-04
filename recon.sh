@@ -46,7 +46,7 @@ echo -e "\e[34m[+] Enumerating Subdomains\e[0m"
 Sdom
 echo -e "\e[35m[+] Checking For Alive Hosts\e[0m"
 Hpx
-echo -e "\e[36m[+] CHecking From DNS Record\e[0m"
+echo -e "\e[36m[+] Checking From DNS Record\e[0m"
 Dnx
 echo -e "\e[31m[+] Taking Screenshots\e[0m"
 Sshot
